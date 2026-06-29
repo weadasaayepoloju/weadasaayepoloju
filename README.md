@@ -264,3 +264,77 @@ Designed a dashboard for monitoring web server traffic and identifying suspiciou
 - 🌐 Build more Web Security projects
 - ☁️ Learn Cloud Security
 - 📚 Contribute to open-source cybersecurity projects
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=weadasaayepoloju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weadasaayepoloju&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=weadasaayepoloju&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=weadasaayepoloju&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weadasaayepoloju&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+### 🔵 SIEM
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+### ☁️ Microsoft Security
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🌐 Offensive Security
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A4EF?style=for-the-badge)
+
+### 🛠️ Recon & Enumeration
+
+![FFUF](https://img.shields.io/badge/FFUF-black?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=for-the-badge)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-blue?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-orange?style=for-the-badge)
+![Amass](https://img.shields.io/badge/Amass-red?style=for-the-badge)
+
+---
