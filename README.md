@@ -252,9 +252,7 @@ Designed a dashboard for monitoring web server traffic and identifying suspiciou
 # 📜 Certifications
 
 - 🏅 Certified Ethical Hacker (CEH)
-- 🏅 Cyber Security Professional
-- 🏅 PCI DSS Training
-- 🏅 Cyber Security Symposium
+
 
 ---
 
