@@ -115,3 +115,18 @@ class WeadaSaaye:
 ---
 
 ⭐ **Building secure systems through continuous learning, hands-on projects, and practical cybersecurity research.**
+
+
+⭐ Building secure systems through continuous learning, hands-on projects, and practical cybersecurity research.
+
+
+## 🛡️ Technical Expertise
+
+## 📊 SIEM & Detection Engineering
+
+- Splunk Enterprise
+- Search Processing Language (SPL)
+- SIEM Administration
+- Security Log Analysis
+- Correlation Search Development
+...
