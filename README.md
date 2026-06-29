@@ -1,292 +1,136 @@
-<div align="center">
+## 🛡️ Technical Expertise
 
-# Hi 👋, I'm WeadaSaaye
+### 📊 SIEM & Detection Engineering
 
-### 🔐 Cybersecurity Engineer | SOC Analyst | Security Researcher | SIEM Enthusiast
+* Splunk Enterprise
+* Search Processing Language (SPL)
+* Security Log Analysis
+* Correlation Search Development
+* Detection Rule Engineering
+* Dashboard Development
+* Alert Tuning & Optimization
+* Threat Hunting
+* IOC Analysis
+* Incident Investigation
+* Windows Event Log Analysis
+* Web Server Log Analysis
+* Authentication Log Monitoring
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;SOC+Analyst;Microsoft+Defender+Specialist;IBM+QRadar+%7C+Splunk;Threat+Hunter;Blue+Team+Learner;Always+Learning+New+Technologies" />
+### 🔵 Security Operations Center (SOC)
 
-<img src="https://komarev.com/ghpvc/?username=weadasaayepoloju&label=Profile%20Views&color=0e75b6&style=flat" />
+* Security Event Monitoring
+* Incident Response
+* Alert Triage
+* Threat Detection
+* MITRE ATT&CK Mapping
+* False Positive Analysis
+* Security Monitoring
+* Digital Forensics (Basic)
+* Endpoint Detection & Response (EDR)
 
-</div>
+### ☁️ Microsoft Security
 
----
+* Microsoft Defender for Endpoint
+* Microsoft 365 Defender
+* Microsoft Defender XDR
+* Microsoft Entra ID
+* Exchange Online Protection (EOP)
+* Anti-Phishing & Anti-Spam Policy Management
+* Safe Links & Safe Attachments
+* Attack Surface Reduction (ASR)
+* Secure Score Optimization
 
-# 💫 About Me
+### 📈 SIEM Platforms
 
-I'm a passionate Cybersecurity Engineer with over **2 years of hands-on experience** protecting enterprise environments through proactive monitoring, threat detection, incident investigation, and security operations.
+* Splunk Enterprise
+* IBM QRadar
 
-I enjoy solving security problems, building SIEM dashboards, creating detection rules, investigating attacks, and continuously learning modern cybersecurity technologies.
+### 🌐 Network Penetration Testing
 
-Currently I'm expanding my expertise in:
+* Network Reconnaissance
+* Host Discovery
+* TCP/UDP Port Scanning
+* Service Enumeration
+* Network Mapping
+* Banner Grabbing
+* OS Fingerprinting
+* SMB Enumeration
+* SNMP Enumeration
+* FTP Enumeration
+* SSH Enumeration
+* Vulnerability Assessment
 
-- 🔍 Threat Hunting
-- 📊 Splunk Enterprise & SPL
-- 🛡️ Security Engineering
-- ☁️ Cloud Security
-- ⚡ Detection Engineering
-- 🔐 Vulnerability Assessment & Penetration Testing
-- 🤖 Security Automation
+### 🌍 Web Application Security
 
----
+* Manual Web Application Penetration Testing
+* OWASP Top 10 Assessment
+* Authentication Testing
+* Authorization Testing
+* Session Management Testing
+* Business Logic Testing
+* Input Validation Testing
+* API Security Testing
+* Security Misconfiguration Testing
 
-# 🚀 What I Do
+### 🔍 Reconnaissance & Enumeration
 
-### 🛡 Security Operations Center (SOC)
+* Information Gathering
+* Domain Enumeration
+* Subdomain Enumeration
+* DNS Enumeration
+* Directory Enumeration
+* File Enumeration
+* Virtual Host Enumeration
+* Content Discovery
+* Technology Fingerprinting
 
-- Security Monitoring
-- Incident Triage
-- Alert Investigation
-- Event Correlation
-- IOC Analysis
-- Threat Detection
-- Log Analysis
-- MITRE ATT&CK Mapping
+### ⚙️ Burp Suite
 
----
+* Proxy
+* Repeater
+* Intruder
+* Decoder
+* Comparer
+* Sequencer
+* Collaborator
+* Extensions
+* Manual Request Manipulation
+* HTTP Request & Response Analysis
+* Web Vulnerability Validation
 
-### ☁ Microsoft Security
+### 🛠️ Security Tools
 
-✔ Microsoft Defender for Endpoint
-
-✔ Microsoft 365 Defender
-
-✔ Exchange Online Protection
-
-✔ Anti-Phishing Policies
-
-✔ Anti-Spam Policies
-
-✔ Safe Links
-
-✔ Safe Attachments
-
-✔ Attack Surface Reduction
-
-✔ Security Score
-
-✔ Microsoft Entra ID
-
----
-
-### 📈 SIEM Technologies
-
-- IBM QRadar
-- Splunk Enterprise
-- SPL Queries
-- Dashboards
-- Reports
-- Correlation Rules
-- Saved Searches
-- Log Analysis
-
----
+* Splunk Enterprise
+* IBM QRadar
+* Burp Suite
+* Nmap
+* Wireshark
+* Nessus
+* Gobuster
+* FFUF
+* Dirsearch
+* Subfinder
+* Amass
+* WhatWeb
+* Nikto
 
 ### 🌐 Networking
 
-- TCP/IP
-- DNS
-- HTTP
-- HTTPS
-- SSH
-- DHCP
-- VPN
-- Firewalls
-- Routing
-- Switching
-
----
-
-### 🔎 Threat Detection
-
-- Malware Analysis
-- Phishing Investigation
-- Suspicious Login Detection
-- Brute Force Detection
-- Web Log Monitoring
-- IOC Hunting
-- Email Security
-- Endpoint Security
-
----
-
-# 🛠 Tech Stack
-
-## Security
-
-```
-Microsoft Defender
-Microsoft 365 Defender
-IBM QRadar
-Splunk
-Wireshark
-Burp Suite
-Nessus
-MITRE ATT&CK
-VirusTotal
-AbuseIPDB
-```
-
----
-
-## Operating Systems
-
-```
-Windows
-Windows Server
-Linux
-Ubuntu
-Kali Linux
-```
-
----
-
-## Languages
-
-```
-SPL
-PowerShell
-Bash
-SQL
-Python (Learning)
-```
-
----
-
-## Cloud
-
-```
-Microsoft Azure
-Microsoft Entra ID
-Microsoft Security
-Cloud Fundamentals
-```
-
----
-
-# 📂 Featured Projects
-
-## 🔥 Splunk SSH Monitoring Dashboard
-
-✔ SSH Login Monitoring
-
-✔ Failed Login Detection
-
-✔ Successful Authentication
-
-✔ Source IP Analysis
-
-✔ User Activity Monitoring
-
-✔ Dashboard Panels
-
-✔ SPL Queries
-
----
-
-## 🌐 Web Traffic Monitoring Dashboard
-
-- HTTP Request Analysis
-- Top Source IPs
-- URL Requests
-- HTTP Status Codes
-- Traffic Trends
-- Security Monitoring
-
----
-
-## 🛡 QRadar Offense Investigation
-
-- Offense Analysis
-- Log Investigation
-- Event Correlation
-- Rule Tuning
-- Incident Response
-
----
-
-## 📧 Microsoft Defender Security
-
-- Anti-Spam Policies
-- Anti-Phishing Policies
-- Safe Links
-- Safe Attachments
-- Attack Surface Reduction
-- Security Score Improvement
-
----
-
-# 📚 Currently Learning
-
-- Detection Engineering
-- Splunk Enterprise Security
-- Threat Hunting
-- Purple Teaming
-- Sigma Rules
-- YARA
-- CrowdStrike Falcon
-- Microsoft Sentinel
-- SOAR
-- Cloud Security
-
----
-
-# 🏆 Certifications
-
-🏅 Certified Ethical Hacker (CEH)
-
-🏅 Cyber Security Professional
-
-🏅 PCI DSS Training
-
-🏅 Cyber Security Symposium
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=weadasaayepoloju&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=weadasaayepoloju&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weadasaayepoloju&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- Build 25+ Splunk Projects
-- Master Detection Engineering
-- Contribute to Open Source Security Projects
-- Publish Cybersecurity Research
-- Earn Advanced Security Certifications
-- Learn Cloud Security
-- Build Security Automation Tools
-
----
-
-# 🤝 Let's Connect
-
-💼 LinkedIn
-
-📧 Email
-
-🌍 GitHub
-
-💬 Open for collaboration on SOC, Splunk, Detection Engineering and Security Projects.
-
----
-
-<div align="center">
-
-### ⭐ "Cybersecurity is not about stopping every attack. It's about detecting faster, responding smarter, and continuously improving."
-
-Thanks for visiting my profile!
-
-⭐ Don't forget to star my repositories if you find them useful.
-
-</div>
+* TCP/IP
+* HTTP / HTTPS
+* DNS
+* SSH
+* FTP
+* SMTP
+* DHCP
+* VPN
+* Routing & Switching
+* Firewall Fundamentals
+
+### 📚 Security Frameworks
+
+* MITRE ATT&CK
+* OWASP Top 10
+* CVSS
+* Cyber Kill Chain
+* Security Best Practices
