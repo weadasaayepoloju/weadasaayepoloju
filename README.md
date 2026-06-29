@@ -2,9 +2,9 @@
 
 ### 🔐 Cybersecurity Engineer | SOC Analyst | SIEM Engineer | Penetration Tester
 
-I'm a passionate Cybersecurity Professional specializing in **Security Operations (SOC)**, **SIEM Engineering**, **Threat Detection**, **Network Penetration Testing**, and **Web Application Security**. I enjoy building detection logic, investigating security incidents, performing security assessments, and developing practical cybersecurity solutions.
+I'm a passionate Cybersecurity Professional specializing in **Security Operations (SOC)**, **SIEM Engineering**, **Threat Detection**, **Network Penetration Testing**, and **Web Application Security**. I enjoy building detection logic, investigating security incidents, performing security assessments and developing practical cybersecurity solutions.
 
-I have hands-on experience with **Splunk Enterprise**, **IBM QRadar**, **Microsoft Defender XDR**, and **Microsoft 365 Defender**, focusing on security monitoring, log analysis, threat hunting, dashboard development, correlation searches, and incident investigation.
+I have hands-on experience with **Splunk Enterprise**, **IBM QRadar**, **Microsoft Defender XDR**, and **Microsoft 365 Defender**, focusing on security monitoring, log analysis, threat hunting, dashboard development, correlation searches and incident investigation.
 
 Beyond blue teaming, I have practical experience in **network penetration testing** and **web application security testing**, including reconnaissance, enumeration, authentication testing, authorization testing, session management testing, and identifying vulnerabilities aligned with the **OWASP Top 10** using **Burp Suite** and industry-standard security tools.
 
