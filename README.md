@@ -130,3 +130,139 @@ class WeadaSaaye:
 - Security Log Analysis
 - Correlation Search Development
 ...
+
+---
+
+# 🚀 Featured Cybersecurity Projects
+
+> *"Learning by building real-world cybersecurity projects."*
+
+---
+
+## 📊 Splunk SIEM Dashboard – SSH Monitoring
+
+**Description**
+
+Developed a Splunk dashboard to monitor SSH authentication events and detect suspicious login attempts.
+
+### Key Features
+
+- SSH Login Monitoring
+- Failed Login Detection
+- Successful Login Analysis
+- Top Source IP Addresses
+- User Authentication Tracking
+- Time-based Login Trends
+- Security Dashboard Visualization
+
+### Skills Demonstrated
+
+- Splunk Enterprise
+- SPL
+- Dashboard Development
+- Log Analysis
+- Threat Detection
+
+---
+
+## 🌐 Splunk SIEM Dashboard – Web Server Monitoring
+
+**Description**
+
+Designed a dashboard for monitoring web server traffic and identifying suspicious HTTP activity.
+
+### Key Features
+
+- HTTP Status Code Analysis
+- Top Requested URLs
+- Source IP Analysis
+- Web Traffic Trends
+- Error Monitoring
+- Security Event Visualization
+
+### Skills Demonstrated
+
+- Splunk Enterprise
+- Web Log Analysis
+- Dashboard Development
+- SPL Queries
+
+---
+
+## 🔎 Detection Engineering Lab
+
+### Focus Areas
+
+- Correlation Search Development
+- Detection Rule Engineering
+- IOC Detection
+- Authentication Monitoring
+- Windows Event Analysis
+- Threat Hunting
+- Alert Optimization
+
+---
+
+## 🌍 Web Application Security Lab
+
+### Hands-on Activities
+
+- Authentication Testing
+- Authorization Testing
+- Session Management Testing
+- API Security Testing
+- Cookie Security Assessment
+- Business Logic Testing
+- OWASP Top 10 Assessment
+
+---
+
+## 🌐 Network Penetration Testing Lab
+
+### Activities
+
+- Network Reconnaissance
+- Host Discovery
+- TCP/UDP Port Scanning
+- Service Enumeration
+- SMB Enumeration
+- SSH Enumeration
+- Banner Grabbing
+- Vulnerability Assessment
+
+---
+
+## 🛠️ Security Tool Practice
+
+- Splunk Enterprise
+- IBM QRadar
+- Burp Suite
+- Wireshark
+- Nmap
+- Nessus
+- Gobuster
+- FFUF
+- Dirsearch
+- Subfinder
+- Amass
+- WhatWeb
+
+---
+
+# 📜 Certifications
+
+- 🏅 Certified Ethical Hacker (CEH)
+- 🏅 Cyber Security Professional
+- 🏅 PCI DSS Training
+- 🏅 Cyber Security Symposium
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build advanced Splunk dashboards
+- 🔍 Master Detection Engineering
+- 🛡️ Improve Threat Hunting skills
+- 🌐 Build more Web Security projects
+- ☁️ Learn Cloud Security
+- 📚 Contribute to open-source cybersecurity projects
