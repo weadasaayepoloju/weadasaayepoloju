@@ -2,14 +2,16 @@
 
 # 👋 Hi, I'm **Weada Saaye**
 
-### 🔐 Cybersecurity Engineer • SOC Analyst • SIEM Engineer • Threat Hunter • Penetration Tester
+### 🔐 Cybersecurity Engineer • SOC Analyst • SIEM Engineer • Threat Hunter
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;SOC+Analyst;Splunk+SIEM+Engineer;Threat+Hunter;Detection+Engineer;Network+Penetration+Tester;Web+Application+Security;Microsoft+Defender+Specialist;Always+Learning+Something+New" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=weadasaayepoloju&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/weadasaayepoloju?logo=github&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/weadasaayepoloju?logo=github&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=weadasaayepoloju&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/weadasaayepoloju?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/weadasaayepoloju?logo=github&style=for-the-badge"/>
 </p>
 
 </div>
@@ -18,26 +20,25 @@
 
 # 💫 About Me
 
-I'm **Weada Saaye**, a Cybersecurity Engineer passionate about protecting organizations through **Security Operations (SOC)**, **SIEM Engineering**, **Threat Hunting**, **Detection Engineering**, **Network Penetration Testing**, and **Web Application Security**.
+Hi, I'm **Weada Saaye**, a Cybersecurity Engineer passionate about defending organizations through Security Operations, SIEM Engineering, Threat Hunting, Detection Engineering, Network Penetration Testing, and Web Application Security.
 
-I enjoy analyzing security events, investigating incidents, building SIEM dashboards, creating detection rules, performing penetration testing, and researching modern cyber threats.
+I enjoy analyzing security events, developing detection logic, investigating incidents, creating SIEM dashboards, performing penetration testing, and researching emerging cyber threats.
 
-My primary goal is to strengthen security by combining **Blue Team** monitoring with **Offensive Security** techniques to detect, investigate, and mitigate attacks effectively.
+My goal is to bridge **Blue Team** operations with **Offensive Security** techniques to build stronger detection capabilities and improve organizational security.
 
 ---
 
 ## 🚀 Experience Focus
 
-* 🛡️ Security Operations Center (SOC)
-* 📊 Splunk Enterprise & SPL
-* 🔍 Threat Hunting
-* ⚙️ Detection Engineering
-* 🌐 Network Penetration Testing
-* 🌍 Web Application Security
-* ☁️ Microsoft Defender XDR
-* 📈 SIEM Administration
-* 🔐 Incident Response
-* 📚 Security Research
+- 🛡️ Security Operations Center (SOC)
+- 📊 Splunk Enterprise & SPL
+- 🔎 Threat Hunting
+- ⚙️ Detection Engineering
+- 🌐 Network Penetration Testing
+- 🌍 Web Application Security
+- ☁️ Microsoft Defender XDR
+- 🔐 Incident Response
+- 📚 Security Research
 
 ---
 
@@ -77,193 +78,245 @@ class WeadaSaaye:
         self.goal = "Build practical cybersecurity solutions."
 
     def daily_routine(self):
-
         return [
-
             "☕ Coffee",
-
             "📊 Analyze Logs",
-
             "🔍 Hunt Threats",
-
             "🛡️ Build Detection Rules",
-
             "🌐 Perform Penetration Testing",
-
             "📚 Learn Something New"
-
         ]
 
     def fun_fact(self):
-
         return "Every log tells a story. I enjoy finding the one that matters. 🔐"
-
 ```
 
 ---
 
 ## 🎯 Current Focus
 
-* 📊 Splunk SIEM Engineering
-* 🔎 Threat Hunting
-* ⚡ Detection Rule Development
-* 🌐 Network Penetration Testing
-* 🔐 Web Application Security
-* ☁️ Microsoft Security
-* 🧠 Continuous Learning
-
----
+- 📊 Splunk SIEM Engineering
+- 🔍 Threat Hunting
+- ⚙️ Detection Rule Development
+- 🌐 Network Penetration Testing
+- 🔐 Web Application Security
+- ☁️ Microsoft Security
+- 📚 Continuous Learning
 
 ⭐ **Building secure systems through continuous learning, hands-on projects, and practical cybersecurity research.**
 
+---
 
-⭐ Building secure systems through continuous learning, hands-on projects, and practical cybersecurity research.
-
-
-## 🛡️ Technical Expertise
+# 🛡️ Technical Expertise
 
 ## 📊 SIEM & Detection Engineering
 
 - Splunk Enterprise
 - Search Processing Language (SPL)
 - SIEM Administration
-- Security Log Analysis
-- Correlation Search Development
-...
-
----
-
-# 🚀 Featured Cybersecurity Projects
-
-> *"Learning by building real-world cybersecurity projects."*
-
----
-
-## 📊 Splunk SIEM Dashboard – SSH Monitoring
-
-**Description**
-
-Developed a Splunk dashboard to monitor SSH authentication events and detect suspicious login attempts.
-
-### Key Features
-
-- SSH Login Monitoring
-- Failed Login Detection
-- Successful Login Analysis
-- Top Source IP Addresses
-- User Authentication Tracking
-- Time-based Login Trends
-- Security Dashboard Visualization
-
-### Skills Demonstrated
-
-- Splunk Enterprise
-- SPL
 - Dashboard Development
-- Log Analysis
-- Threat Detection
-
----
-
-## 🌐 Splunk SIEM Dashboard – Web Server Monitoring
-
-**Description**
-
-Designed a dashboard for monitoring web server traffic and identifying suspicious HTTP activity.
-
-### Key Features
-
-- HTTP Status Code Analysis
-- Top Requested URLs
-- Source IP Analysis
-- Web Traffic Trends
-- Error Monitoring
-- Security Event Visualization
-
-### Skills Demonstrated
-
-- Splunk Enterprise
-- Web Log Analysis
-- Dashboard Development
-- SPL Queries
-
----
-
-## 🔎 Detection Engineering Lab
-
-### Focus Areas
-
 - Correlation Search Development
 - Detection Rule Engineering
-- IOC Detection
-- Authentication Monitoring
-- Windows Event Analysis
+- Alert Tuning & Optimization
 - Threat Hunting
-- Alert Optimization
+- Security Log Analysis
+- IOC Analysis
+- Incident Investigation
+- Windows Event Log Analysis
+- Linux Log Analysis
+- Web Server Log Analysis
+- Authentication Log Monitoring
+- Email Gateway Monitoring
 
 ---
 
-## 🌍 Web Application Security Lab
+## 🔵 Security Operations Center (SOC)
 
-### Hands-on Activities
-
-- Authentication Testing
-- Authorization Testing
-- Session Management Testing
-- API Security Testing
-- Cookie Security Assessment
-- Business Logic Testing
-- OWASP Top 10 Assessment
+- Security Event Monitoring
+- Alert Triage
+- Incident Investigation
+- Incident Response
+- Threat Detection
+- Threat Hunting
+- Security Monitoring
+- False Positive Analysis
+- MITRE ATT&CK Mapping
+- IOC Investigation
+- Root Cause Analysis
+- Escalation Procedures
+- Security Reporting
+- Endpoint Detection & Response (EDR)
 
 ---
 
-## 🌐 Network Penetration Testing Lab
+## ☁️ Microsoft Security
 
-### Activities
+- Microsoft Defender for Endpoint
+- Microsoft Defender XDR
+- Microsoft 365 Defender
+- Microsoft Entra ID
+- Exchange Online Protection (EOP)
+- Anti-Phishing Policies
+- Anti-Spam Policies
+- Safe Links
+- Safe Attachments
+- Attack Surface Reduction (ASR)
+- Secure Score Optimization
+- Identity Protection
 
+---
+
+## 📈 SIEM Platforms
+
+- Splunk Enterprise
+- IBM QRadar
+
+---
+
+## 🌐 Network Penetration Testing
+
+- Information Gathering
 - Network Reconnaissance
 - Host Discovery
-- TCP/UDP Port Scanning
+- TCP Port Scanning
+- UDP Port Scanning
 - Service Enumeration
-- SMB Enumeration
-- SSH Enumeration
 - Banner Grabbing
+- SMB Enumeration
+- FTP Enumeration
+- SSH Enumeration
+- SNMP Enumeration
+- DNS Enumeration
+- OS Fingerprinting
 - Vulnerability Assessment
 
 ---
 
-## 🛠️ Security Tool Practice
+## 🌍 Web Application Security
+
+- Manual Web Application Testing
+- Authentication Testing
+- Authorization Testing
+- Session Management Testing
+- Business Logic Testing
+- Input Validation Testing
+- Cookie Security Assessment
+- API Security Testing
+- Security Misconfiguration Testing
+- OWASP Top 10 Assessment
+
+---
+
+## 🔍 Reconnaissance & Enumeration
+
+- Domain Enumeration
+- Subdomain Enumeration
+- Directory Enumeration
+- File Enumeration
+- Virtual Host Enumeration
+- DNS Enumeration
+- Technology Fingerprinting
+- Content Discovery
+- Parameter Discovery
+
+---
+
+## ⚙️ Burp Suite
+
+- Proxy
+- Repeater
+- Intruder
+- Decoder
+- Comparer
+- Sequencer
+- Collaborator
+- Extensions
+- Manual Request Manipulation
+- HTTP Request Analysis
+- HTTP Response Analysis
+- Web Vulnerability Validation
+
+---
+
+## 🛠️ Security Tools
+
+### SIEM
 
 - Splunk Enterprise
 - IBM QRadar
+
+### Penetration Testing
+
 - Burp Suite
-- Wireshark
 - Nmap
+- Wireshark
 - Nessus
+
+### Reconnaissance
+
 - Gobuster
 - FFUF
 - Dirsearch
 - Subfinder
 - Amass
 - WhatWeb
+- Nikto
+
+### Networking
+
+- TCP/IP
+- HTTP / HTTPS
+- DNS
+- SSH
+- FTP
+- SMTP
+- DHCP
+- VPN
+- Routing & Switching
+- Firewall Fundamentals
+
+### Security Frameworks
+
+- MITRE ATT&CK
+- OWASP Top 10
+- Cyber Kill Chain
+- CVSS
+- NIST Cybersecurity Framework
 
 ---
 
-# 📜 Certifications
+
+# 🚀 Featured Cybersecurity Projects
+
+> *"Learning cybersecurity by building practical projects and documenting every step."*
+
+| 🚀 Project | 📖 Description | 🛠 Technologies |
+|------------|----------------|-----------------|
+| 📧 **Splunk Email Gateway Dashboard** | Security dashboard for monitoring email gateway logs, spam detection, phishing analysis, blocked emails, and email traffic trends. | Splunk Enterprise, SPL, Dashboard Studio |
+| 🔐 **Splunk SSH Monitoring Dashboard** | Dashboard for monitoring SSH authentication events, failed logins, successful logins, source IP analysis, and login trends. | Splunk Enterprise, SPL, Linux Logs |
+| 🌐 **Splunk Web Server Monitoring Dashboard** | Dashboard for monitoring web server traffic, HTTP status codes, top requested URLs, source IPs, and suspicious requests. | Splunk Enterprise, SPL, Apache Logs |
+| 🛡️ **Detection Engineering Lab** | Collection of Splunk correlation searches, detection rules, IOC detection, alert tuning, and threat hunting use cases. | Splunk, SPL, MITRE ATT&CK |
+| 🌍 **Web Application Security Lab** | Hands-on web application security testing including OWASP Top 10, authentication, authorization, session management, and API testing. | Burp Suite, OWASP Top 10 |
+| 🌐 **Network Penetration Testing Lab** | Practical network reconnaissance, enumeration, vulnerability assessment, and service discovery. | Nmap, Wireshark, Nessus, FFUF |
+
+---
+
+## 🎯 Current Learning Goals
+
+- 📊 Advanced Splunk Dashboard Development
+- 🔍 Detection Engineering & Threat Hunting
+- 🛡️ SIEM Content Development
+- 🌐 Advanced Web Application Security
+- ☁️ Cloud Security (Azure & Microsoft Security)
+- 📚 Open-Source Cybersecurity Projects
+
+---
+
+## 📜 Certifications
 
 - 🏅 Certified Ethical Hacker (CEH)
-
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build advanced Splunk dashboards
-- 🔍 Master Detection Engineering
-- 🛡️ Improve Threat Hunting skills
-- 🌐 Build more Web Security projects
-- ☁️ Learn Cloud Security
-- 📚 Contribute to open-source cybersecurity projects
+- 🏅 Cyber Security Professional Intern 
+- 🏅 Cyber Security Symposium 2024
 
 ---
 
@@ -289,7 +342,7 @@ Designed a dashboard for monitoring web server traffic and identifying suspiciou
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -307,34 +360,83 @@ Designed a dashboard for monitoring web server traffic and identifying suspiciou
 
 </div>
 
----
+---# 💻 Technology Stack
 
-# 💻 Tech Stack
-
-### 🔵 SIEM
+## 📊 SIEM & Security Monitoring
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-### ☁️ Microsoft Security
-
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365 Defender](https://img.shields.io/badge/Microsoft_365_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 🌐 Offensive Security
+---
+
+## 🛡️ Offensive Security
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00A4EF?style=for-the-badge)
 
-### 🛠️ Recon & Enumeration
+---
+
+## 🔍 Recon & Enumeration
 
 ![FFUF](https://img.shields.io/badge/FFUF-black?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=for-the-badge)
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-blue?style=for-the-badge)
 ![Subfinder](https://img.shields.io/badge/Subfinder-orange?style=for-the-badge)
 ![Amass](https://img.shields.io/badge/Amass-red?style=for-the-badge)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-grey?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-darkred?style=for-the-badge)
 
 ---
+
+## 🌐 Networking
+
+![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-green?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge)
+![HTTPS](https://img.shields.io/badge/HTTPS-success?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-black?style=for-the-badge)
+![FTP](https://img.shields.io/badge/FTP-orange?style=for-the-badge)
+
+
+
+
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/weadasaayepoloju">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Cybersecurity Philosophy
+
+> **"Security is a continuous journey of learning, adapting, and improving. Every log tells a story, every alert deserves investigation, and every project is an opportunity to grow."**
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+If you find my projects useful or interesting, feel free to ⭐ star a repository or connect with me.
+
+</div>
